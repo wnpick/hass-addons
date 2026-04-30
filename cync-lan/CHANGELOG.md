@@ -1,3 +1,6 @@
+### 0.0.5b3
+- Add Light/Switch Types
+
 ### 0.0.5b2
 - NOTE: always backup, I am a carpenter who does this in my spare time, not a software engineer
 - BREAKING CHANGES:
